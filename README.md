@@ -9,8 +9,9 @@
 
 Q1
 Question: How do you view all records from the laptops table?
-Answer:SELECT * FROM laptops;
+Answer:
 SELECT * FROM laptops;
+
 
 Q2
 Question: How do you create a backup table called laptops_backup with the same structure as laptops?
