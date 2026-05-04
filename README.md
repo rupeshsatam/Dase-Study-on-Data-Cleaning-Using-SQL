@@ -1,4 +1,4 @@
-# Dase-Study-on-Data-Cleaning-Using-SQL
+# Case-Study-on-Data-Cleaning-Using-SQL
 
 # Laptop Data Cleaning - SQL Case Study
 
